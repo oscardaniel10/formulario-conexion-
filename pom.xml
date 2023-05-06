@@ -7,7 +7,7 @@
     <groupId>CO.EDU.SENA</groupId>
     <artifactId>FORMULARIO</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>FORMULARIO</name>
+    <name>FORMULARIO2</name>
     <packaging>war</packaging>
 
     <properties>
